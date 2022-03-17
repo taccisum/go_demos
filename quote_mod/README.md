@@ -1,6 +1,6 @@
 # Quote Modules
 
-Quote Modules
+Sample that quote modules from local or remote.
 
 ## How to
 
